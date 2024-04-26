@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Favorite Places App<br>🤝 I’m looking for help with Node.JS.<br>🌱 I’m currently learning Node.JS<br>💬 Ask me about<br>⚡ Fun fact : I usually forget to import packages.
+🔭 I’m currently working on Mobile Favorite Places App<br>🤝 I’m looking for help with Node.JS.<br>🌱 I’m currently learning Node.JS<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
